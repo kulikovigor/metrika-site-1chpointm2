@@ -1,0 +1,19 @@
+.service_description {
+    color: #ffffff;
+  }
+  
+  .services_item_image {
+    margin-bottom: 15px;
+  }
+  
+  .services {
+    margin-top: 34px;
+  }
+  
+  .services .service {
+    margin-top: 60px;
+  }
+  
+  .services :first-child {
+    margin-top: 0;
+  }  
